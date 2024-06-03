@@ -1,0 +1,41 @@
+.fruits{
+    border: 2px solid ;
+    padding: 20px;
+    margin: 20px;
+    text-align: left;
+    color: coral;
+    font-family: "Agency FB";
+}
+
+.Fruits{
+
+    border:2px solid ;
+    padding: 20px;
+    margin: 20px;
+    text-align: left;
+    color: darkgoldenrod;
+    font-family:"Agency FB" ;
+}
+
+.cars{
+    border: 2px solid;
+    padding: 20px;
+    margin: 20px;
+    text-align: left;
+    font-family: "Agency FB";
+    color:cadetblue;
+}
+#schools{
+    font-palette: dark;
+    font-family:"Baskerville Old Face";
+    text-align: left;
+    color: darkslategray;
+}
+
+h2{
+    text-align: match-parent;
+    color: darkslategray;
+    font-palette: light;
+    font-family: "Arial Rounded MT Bold";
+
+}

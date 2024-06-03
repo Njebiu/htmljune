@@ -1,0 +1,52 @@
+ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    background-color: chocolate;
+    overflow: hidden;
+}
+
+li{
+    float: left;
+
+}
+
+li a{
+    padding:20px ;
+    text-decoration: none;
+    color: black;
+    display:table;
+
+}
+h2{
+    text-align:left;
+    color: burlywood;
+    font-family: "Arial Black";
+    font-size: small;
+}
+p{
+    color: black;
+    font-family: Arial;
+}
+h2{
+    text-align:left;
+    color: burlywood;
+    font-family: "Arial Black";
+    font-size: small;
+}
+h2{
+    text-align: left;
+    color: burlywood;
+    font-family: "Arial Black";
+    font-size: small;
+}
+h2{
+    text-align: left;
+    color: burlywood;
+    font-family: "Arial Black";
+    font-size: small;
+}
+li a:hover{
+    background-color: aliceblue;
+
+}
